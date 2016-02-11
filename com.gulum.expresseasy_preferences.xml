@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <string name="UPDATEFREQ">7</string>
+    <int name="INPUTTYPE" value="1" />
+    <int name="RUNTIMES" value="11" />
+    <string name="SMSTEMPLATE">梵蒂冈波巴黎风格个月</string>
+    <string name="SMSTYPE">1</string>
+</map>

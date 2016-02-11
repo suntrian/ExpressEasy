@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <ListPreference
+        android:key="SMSTYPE"
+        android:title="@string/pref_smstype"
+        android:defaultValue="0"
+        android:summary="@string/pref_smstype_description"
+        android:entries="@array/setting_smstype_"
+        android:entryValues="@array/setting_smstype_value"/>
+    <ListPreference
+        android:key="UPDATEFREQ"
+        android:title="@string/pref_updaterate"
+        android:defaultValue="0"
+        android:summary="@string/pref_updaterate_never"
+        android:entries="@array/setting_updaterate"
+        android:entryValues="@array/setting_updaterate_value"/>
+
+    <EditTextPreference
+        android:key="SMSTEMPLATE"
+        android:title="@string/pref_template"
+        android:summary="@string/pref_curtemplate"
+        android:minLines="4"
+        android:gravity="top"/>
+
+</PreferenceScreen>

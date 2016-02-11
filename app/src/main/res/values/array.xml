@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="setting_smstype_">
+        <item>系统短信</item>
+        <item>运营商服务短信</item>
+    </string-array>
+    <string-array name="setting_smstype_value">
+        <item>0</item>
+        <item>1</item>
+    </string-array>
+    <string-array name="setting_updaterate">
+        <item>从不</item>
+        <item>一周</item>
+        <item>一月</item>
+        <item>半年</item>
+    </string-array>
+    <string-array name="setting_updaterate_value">
+        <item>0</item>
+        <item>7</item>
+        <item>30</item>
+        <item>180</item>
+    </string-array>
+</resources>

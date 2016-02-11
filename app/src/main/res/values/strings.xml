@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">ExpressEasy</string>
+    <string name="action_settings">设置</string>
+    <string name="about">关于</string>
+    <string name="addagent">添加代收点</string>
+    <string name="hint">收件人电话号码</string>
+    <string name="chmode">mode</string>
+    <string name="talk">press to speak</string>
+    <string name="del">&lt;--</string>
+    <string name="send">发送</string>
+    <string name="agent_name_sample">代收点</string>
+    <string name="agent_address_sample">代收点地址</string>
+
+    <string name="pref_smstype">发送短信方式</string>
+    <string name="pref_smstype_description">短信类型</string>
+    <string name="pref_updaterate">检查更新频率</string>
+    <string name="pref_updaterate_never">从不</string>
+    <string name="pref_updaterate_week">每周</string>
+    <string name="pref_updaterate_month">每月</string>
+    <string name="pref_updaterate_semiyear">每半年</string>
+    <string name="pref_template">短信模板</string>
+    <string name="pref_curtemplate">编辑当前模板</string>
+    <string name="record">发送记录</string>
+</resources>

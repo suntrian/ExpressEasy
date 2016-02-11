@@ -1,0 +1,5 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <int name="INPUTTYPE" value="0" />
+    <int name="RUNTIMES" value="8" />
+</map>
